@@ -1,1 +1,1 @@
-# paralax
+# Parallax demo
